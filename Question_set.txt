@@ -25,6 +25,8 @@ Script Name : Floating.py
 Demonstrate complex numbers in python
 Script Name : Floating.py
 
-Demonstrate Boolean numbers in python
+Demonstrate Boolean in python
 Script Name : Boolean.py
 
+Demonstrate String & triple single & triple double quote in python
+Script Name : String_part1.py
