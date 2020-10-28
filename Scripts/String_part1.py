@@ -21,7 +21,7 @@ print(a)
 ######################################################################################
 
 # Note :
-# 1. In order to handle multiline literals make use of tripe single or double quote
+# 1. In order to handle multiline literals make use of tripe single / double quote
 # 2. In order to make use of single and double quote wihtin a string literal we use
 #     triple quote or triple double quote
 # 3. To define doc strings we make use of triple quote or triple double quote
