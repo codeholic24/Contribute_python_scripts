@@ -24,3 +24,7 @@ Script Name : Floating.py
 
 Demonstrate complex numbers in python
 Script Name : Floating.py
+
+Demonstrate Boolean numbers in python
+Script Name : Boolean.py
+
