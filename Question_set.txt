@@ -1,0 +1,20 @@
+Write a program to print HELLO WORLD using python
+Script Name : Hello_world.py
+
+Write a program to perform Basic Operations using python
+Script Name : Basic_Calculator.py
+
+Demonstrate data types in python
+Script Name : Print_data_type.py
+
+Write a program to perform Integral conversion using python
+Script Name : Integral.py
+
+Write a base conversion program using python
+Script Name : Base_conversion.py
+
+Write a program to display all reserved keywords using python
+Script Name : keyword_list.py
+
+Write a program to print 6 digit random OTP number 
+Script Name : print_six_digit_OTP.py
