@@ -21,3 +21,6 @@ Script Name : print_six_digit_OTP.py
 
 Demonstrate floating numbers in python
 Script Name : Floating.py
+
+Demonstrate complex numbers in python
+Script Name : Floating.py
