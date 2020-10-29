@@ -34,4 +34,7 @@ Script Name : String_part_1.py
 Demonstrate String as Positive and Negative index in python
 Script Name : String_part_2.py
 
+Demonstrate String with slice operator in python
+Script Name : String_slice_operator.py
+
 
