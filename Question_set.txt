@@ -30,3 +30,8 @@ Script Name : Boolean.py
 
 Demonstrate String & triple single & triple double quote in python
 Script Name : String_part1.py
+
+Demonstrate String as Positive and Negative index in python
+Script Name : String_part2.py
+
+
