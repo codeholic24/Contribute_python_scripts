@@ -43,4 +43,10 @@ Script Name : String_plus_multiplication_operator.py
 Demonstrate Type casting in python
 Script Name : Type_casting.py
 
+illustrate the usage of mutable and immutable  in python
+Script Name : Mutable_Immutable.py
+
+
+
+
 
