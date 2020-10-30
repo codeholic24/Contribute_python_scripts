@@ -40,3 +40,7 @@ Script Name : String_slice_operator.py
 Demonstrate String with + and * operator in python
 Script Name : String_plus_multiplication_operator.py
 
+Demonstrate Type casting in python
+Script Name : Type_casting.py
+
+
