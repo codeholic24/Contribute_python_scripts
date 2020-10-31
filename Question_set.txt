@@ -49,5 +49,8 @@ Script Name : Mutable_Immutable.py
 illustrate the usage of List in python
 Script Name : List.py
 
+illustrate the usage of Tuple in python
+Script Name : Tuple.py
+
 
 
