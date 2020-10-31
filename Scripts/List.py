@@ -9,7 +9,7 @@
 # -  Indexing & Slicing is possible
 # -  Growable in nature
 # -  Mutable
-# -  Heterogenous
+# -  Heterogeneous
 
 # Example 1 :
 l=[10,20,40]
@@ -17,8 +17,8 @@ print("Data inside List : ", l)
 # Output : Data inside List :  [10, 20, 40]
 
 
-# Example 2 : List can take Heterogenous data
-# Heterogenous : can contain any type of data
+# Example 2 : List can take Heterogeneous data
+# Heterogeneous : can contain any type of data
 
 l=[10,'VIKAS',30,40]
 print("Data inside List : ", l)
