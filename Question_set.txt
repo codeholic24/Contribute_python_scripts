@@ -23,7 +23,7 @@ Demonstrate floating numbers in python
 Script Name : Floating.py
 
 Demonstrate complex numbers in python
-Script Name : Floating.py
+Script Name : Complex.py
 
 Demonstrate Boolean in python
 Script Name : Boolean.py
