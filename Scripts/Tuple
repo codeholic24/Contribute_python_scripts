@@ -1,0 +1,76 @@
+# What is Tuple
+# Read only of list is called tuple
+# eg : l = (10,20,34)
+
+# Tuple is :
+# -  Order preserved
+# -  Duplicates are allowed
+# -  () : should be represented with parenthesis
+# -  Indexing & Slicing is possible
+# -  Not Growable in nature
+# -  Immutable
+# -  Heterogeneous
+# -  tuple which is declared with only one value
+#    will not be considered as tuple, it will take it as Int
+# -  In order to consider one value as tuple the data
+#    should be append with comma eg : t=(10,)
+
+
+# Example 1 :
+l=(10,20,40)
+print("Data inside Tuple : ", l)
+print("Type : ", type(l))
+# Output :
+# Data inside Tuple :  (10, 20, 40)
+# Type :  <class 'tuple'>
+
+
+# Example 2 : Duplicate are allowed
+l=(10,20,30,10,40)
+print("Data inside Tuple : ", l)
+# Output :
+# Data inside Tuple :  (10, 20, 30, 10, 40)
+
+
+# Example 3 : declared with one single value
+l=(10)
+print("Data inside Tuple : ", l)
+print("Type : ", type(l))
+# Output :
+# Data inside Tuple :  10
+# Type :  <class 'int'> -> considered as Int
+# In order to make it as tuple add comma at the end
+
+
+l=(10,)
+print("Data inside Tuple : ", l)
+print("Type : ", type(l))
+# Output :
+# Data inside Tuple :  (10,)
+# Type :  <class 'tuple'>
+
+
+# Example 4 : Can perform indexing on list & get specific location value
+l=(10,20,10,40)
+print("Value at Location [0] : ",l[0])
+# Output : Value at Location [0] :  10
+
+
+# Example 5 : Can perform slicing on list of data
+l=(10,20,10,40)
+print("Slicing : ", l[1:4])
+# Output : Slicing :  (20, 10, 40)
+
+
+# Example 6 : List can take Heterogeneous data
+# Heterogeneous : can contain any type of data
+
+l=(10,'VIKAS',30,40)
+print("Data inside Tuple : ", l)
+# Output : Data inside Tuple :  (10, 'VIKAS', 30, 40)
+
+
+# Note :
+#1. Due Immutable the changes cannot be made to
+#   the tuple list which is once created
+#2. append and remove option cannot be performed
