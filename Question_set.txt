@@ -46,7 +46,8 @@ Script Name : Type_casting.py
 illustrate the usage of mutable and immutable  in python
 Script Name : Mutable_Immutable.py
 
-
+illustrate the usage of List in python
+Script Name : List.py
 
 
 
