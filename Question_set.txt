@@ -55,3 +55,6 @@ Script Name : Tuple.py
 Describe types of error 
 Script Name : Types_of_error.py
 
+Some important concepts in python must be know for every programmer  
+Script Name : Important_concept.py
+
