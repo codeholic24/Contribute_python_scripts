@@ -58,3 +58,5 @@ Script Name : Types_of_error.py
 Some important concepts in python must be know for every programmer  
 Script Name : Important_concept.py
 
+Write a program to check if the number,N is jumping number of not.
+Script Name : Jumping_Number.py
